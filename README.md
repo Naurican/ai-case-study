@@ -17,7 +17,7 @@ First Columbia AI Challenge
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve? Contract analysis.
+* What specific problem is the company or project trying to solve? Contract analysis. Reducing time and costs of contract analysis.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -54,4 +54,5 @@ First Columbia AI Challenge
 
 * References:
 * https://digitaldefynd.com/IQ/artificial-intelligence-case-studies/
+* https://marutitech.com/nlp-contract-management-analysis/
 * 
