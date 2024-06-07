@@ -4,16 +4,19 @@ First Columbia AI Challenge
 
 ## Overview and Origin
 
-* Name of company: Superlegal
+* Name of company: Lexcheck
 * 
 
-* When was the company incorporated?
+* When was the company incorporated? In 2015 in New York
 
 * Who are the founders of the company?
+* Gary Sangha
 
 * How did the idea for the company (or project) come about?
+* He is a lawyer and wanted to improve contract analysis.
 
 * How is the company funded? How much funding have they received?
+* By 8 investors. (GTM Fund, Bigfoot Capital, Wormhole Capital, Howard Morgan, Ulu Ventures and Kli Capital). Total amount is 25 million US dollars.
 
 ## Business Activities
 
@@ -24,6 +27,7 @@ First Columbia AI Challenge
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* HTML5, jQuery, and Google Analytics, according to G2 Stack.
 
 ## Landscape
 
@@ -55,4 +59,4 @@ First Columbia AI Challenge
 * References:
 * https://digitaldefynd.com/IQ/artificial-intelligence-case-studies/
 * https://marutitech.com/nlp-contract-management-analysis/
-* 
+* https://www.crunchbase.com/organization/lit-iq
