@@ -1,7 +1,7 @@
 # ai-case-study
 First Columbia AI Challenge
 # TITLE
-.
+**Lexchek Software**
 ## Overview and Origin
 
 * Name of company: Lexcheck
