@@ -5,47 +5,47 @@ First Columbia AI Challenge
 ## Overview and Origin
 
 * Name of company: Lexcheck
-* 
+  
 
 * When was the company incorporated?
-* In 2015 in New York
+  *In 2015, in New York.*
 
 * Who are the founders of the company?
-* Gary Sangha
+  Gary Sangha
 
 * How did the idea for the company (or project) come about?
-* He is a lawyer and wanted to improve contract analysis.
+ He is a lawyer and wanted to improve contract analysis.
 
 * How is the company funded? How much funding have they received?
-* By 8 investors. (GTM Fund, Bigfoot Capital, Wormhole Capital, Howard Morgan, Ulu Ventures and Kli Capital). Total amount is 25 million US dollars.
+  By 8 investors. (GTM Fund, Bigfoot Capital, Wormhole Capital, Howard Morgan, Ulu Ventures and Kli Capital). Total amount is 25 million US dollars.
 
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-* Contract analysis. Reducing time and costs of contract analysis. They also made deals managing software to improve the deal processes.
+  Contract analysis. Reducing time and costs of contract analysis. They also made deals managing software to improve the deal processes.
 
 * Who is the company's intended customer?
-* Medium to large companies.
+  Medium to large companies.
 * Is there any information about the market size of this set of customers?
-* No, but it's intended to comprise a big share of all companies.
+ No, but it's intended to comprise a big share of all companies.
 
-* What solution does this company offer that their competitors do not or cannot offer?
-* Everything they do others companies could do, but they where pioneers.
-* They were the pioneers in their filed, but do have any special advantage.
+* What solution does this company offer that its competitors do not or cannot offer?
+  Everything they do, other companies could do, but they were pioneers.
+* They were the pioneers in their field but do have any special advantage.
 
 * Which technologies are they currently using, and how are they implementing them? 
-* HTML5, jQuery, and Google Analytics, according to G2 Stack. Also NLP and machine learning
+  HTML5, jQuery, and Google Analytics, according to G2 Stack. Also NLP and machine learning
 
 ## Landscape
 
 * What field is the company in?
-* Law and business processes.
+  Law and business processes.
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
   The contract analysis evolution has been great. From JPMorgans' COIN software to Docsign document signing.
 
 * What are the other major companies in this field?
-* Jo Morgan COIN, Summize, Ironcladapp.com, LexCheck, Legamart
+  JP Morgan COIN, Summize, Ironcladapp.com, LexCheck, Legamart
 
 ## Results
 
