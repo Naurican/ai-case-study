@@ -7,7 +7,8 @@ First Columbia AI Challenge
 * Name of company: Lexcheck
 * 
 
-* When was the company incorporated? In 2015 in New York
+* When was the company incorporated?
+* In 2015 in New York
 
 * Who are the founders of the company?
 * Gary Sangha
